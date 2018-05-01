@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"runtime"
 
-	xbuild "v2ray.com/ext/build"
-	"v2ray.com/ext/tools/build"
-	"v2ray.com/ext/zip"
+	xbuild "github.com/wumingshi0531/ext/build"
+	"github.com/wumingshi0531/ext/tools/build"
+	"github.com/wumingshi0531/ext/zip"
 )
 
 var (
